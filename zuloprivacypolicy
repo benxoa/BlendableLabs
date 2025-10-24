@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - Zunoe AI</title>
+  <style>
+    /* Reset and Base Styling */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background: linear-gradient(135deg, #7f00ff, #e100ff);
+      color: white;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: left;
+      padding: 40px 20px;
+    }
+
+    .policy-container {
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(12px);
+      border-radius: 20px;
+      padding: 40px 30px;
+      max-width: 800px;
+      width: 100%;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+      color: rgba(255, 255, 255, 0.95);
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 15px;
+      text-align: center;
+      color: #fff;
+    }
+
+    p {
+      font-size: 1.05rem;
+      margin-bottom: 15px;
+      line-height: 1.7;
+    }
+
+    strong {
+      color: #fff;
+    }
+
+    footer {
+      margin-top: 30px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: rgba(255, 255, 255, 0.8);
+    }
+
+    @media (max-width: 600px) {
+      .policy-container {
+        padding: 30px 20px;
+      }
+      h1 {
+        font-size: 1.7rem;
+      }
+      p {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="policy-container">
+    <h1>Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> April 23, 2025</p>
+
+    <p>At <strong>Zunoe AI</strong>, your privacy is our top priority. This Privacy Policy explains how we collect, use, and protect your information when you use our app.</p>
+
+    <p><strong>1. Information We Collect</strong><br>
+    Zunoe AI collects limited user information for authentication and account management purposes. We only use official sign-in methods provided by <strong>Google</strong> and <strong>Apple</strong>. These services share minimal data with us, such as your name, email address, and user ID.</p>
+
+    <p><strong>2. User Credits and Purchases</strong><br>
+    We securely store your <strong>user credits</strong> related to one-time purchases within your account. This data is used only to manage your app access and ensure smooth usage of Zunoe AI’s features.</p>
+
+    <p><strong>3. No Third-Party Advertising</strong><br>
+    Zunoe AI does <strong>not</strong> use any third-party advertising or tracking services. Your data is never shared or sold to external advertisers or analytics providers.</p>
+
+    <p><strong>4. Data Security</strong><br>
+    We implement industry-standard security measures to protect your information and ensure that your account and purchase data remain safe at all times.</p>
+
+    <p><strong>5. Your Privacy Rights</strong><br>
+    You have the right to delete your account and associated data at any time. You can request data deletion or assistance by contacting our support team.</p>
+
+    <p><strong>6. Contact Us</strong><br>
+    If you have any questions or concerns about this Privacy Policy, please contact us at:<br>
+    <strong>Email:</strong> <a href="mailto:support@Zunoeai.com" style="color: #ffd4ff; text-decoration: none;">abdussamadatif7@outlook.com</a>
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 Zunoe AI. All rights reserved.
+  </footer>
+</body>
+</html>
